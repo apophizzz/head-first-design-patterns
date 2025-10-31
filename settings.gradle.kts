@@ -8,4 +8,4 @@ plugins {
 }
 rootProject.name = "head-first-design-patterns"
 
-include("design-principles")
+include("strategy-pattern")
